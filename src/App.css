@@ -1,0 +1,87 @@
+body{
+  background-color: #000099;
+  margin: 0;
+  padding:0;
+  background:url("/beer.jpg");
+
+    background-size: zoom;
+}
+#root{
+  background-color: #e6e6e6;
+  width: 600px;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 0 auto;
+  margin-top: 100px;
+  border: solid 1px #226693;
+}
+h3{
+  text-align: center;
+}
+
+label{
+  width: 120px;
+  display: inline-block;
+  font-size: 14px;
+}
+input, select{
+  border: solid 1px #999;
+  border-radius: 7px;
+  margin-right: 15px;
+  width: 150px;
+  height: 18px;
+  margin: 0 15px 10px 0;
+  font-size:14px;
+  padding:3px;
+
+}
+select {
+  height: 26px;
+  width: 159px;
+}
+
+.special {
+  border: 0px;
+  background: #e6e6e6;
+
+}
+.button{
+  padding: 7px 14px;
+  font-weight: bolder;
+  color: #555;
+  box-shadow: 3px 3px 3px #e6e6e6;
+  border: solid 1px #999;
+  font-size: 14px;
+  border-radius: 7px;
+  outline: none;
+  background-color: #226693;
+  color: #fff;
+  height: 28px;
+  line-height: 14px;
+
+}
+.button:active{
+  margin: 2px -2px -2px 2px;
+
+}
+.Beers{
+  border-bottom: solid 1px #226693;
+  margin-bottom: 15px;
+  list-style: none;
+  padding-left: 25px;
+}
+
+.Beers a {float: right;
+text-decoration: none;
+color: #cc0000;
+border: solid 1px #F00;
+border-radius: 15px;
+display: inline-block;
+background-color:#fff;
+padding-left: 4px;
+    width: 15px;
+    padding-top: 2px;}
+  .Beers a:hover {
+    background-color: #c00;
+    color:#fff;
+  }

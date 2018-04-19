@@ -1,0 +1,46 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "Brewery": "Actual Brewing",
+    "title": "Fat Julian",
+    "style": "Imperial Stout",
+    "rating": "*****"
+  },
+
+  {
+    "userId": 1,
+    "id": 2,
+    "Brewery": "Rhinegeist",
+    "title": " Squirrel",
+    "style": "Brown Ale",
+    "rating": "***"
+  },
+
+  {
+    "userId": 1,
+    "id": 3,
+    "Brewery": "Short's Brewing Co",
+    "title": "Soft Parade",
+    "style": "Fruit Beer ",
+    "rating": "**"
+  },
+
+  {
+    "userId": 1,
+    "id": 4,
+    "Brewery": "Sibling Revelry Brewing",
+    "title": "Third Wheel",
+    "style": "Belgian Tripel" ,
+    "rating": "****"
+  },
+
+  {
+    "userId": 1,
+    "id": 5,
+    "Brewery": "Off Color Brewing",
+    "title": "Apex Predator",
+    "style": "Saison ",
+    "rating": "***"
+  }
+]
